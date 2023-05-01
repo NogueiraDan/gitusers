@@ -1,0 +1,124 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 50px;
+  color: whitesmoke;
+}
+
+.searchWrapper {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  padding: 40px 10px;
+  border-radius: 20px;
+  background-color: rgba(60, 60, 60, 0.9);
+  box-shadow: -6px 6px 8px rgba(0, 0, 0, 0.5);
+}
+
+.input {
+  height: 45px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+  border-style: none;
+  padding-left: 10px;
+  font-size: 14px;
+}
+
+.input::placeholder {
+  color: rgba(0, 0, 0, 0.4);
+  font-style: italic;
+  font-size: 14px;
+}
+
+.btnSearch {
+  height: 35px;
+  width: 15%;
+  border-radius: 5px;
+  border-style: none;
+  margin-top: 5px;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid rgba(80, 80, 80, 1);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.reposWrapper {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.repos {
+  height: 250px;
+  width: 23%;
+  margin: 8px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(80, 80, 80, 1);
+  box-shadow: -6px 6px 8px rgba(0, 0, 0, 0.5);
+  padding: 20px 10px 0 10px;
+  transition: all ease-in 0.4s;
+}
+
+.repos:hover {
+  transform: scale(1.1);
+}
+
+.repos p {
+  margin-top: 10px;
+  text-align: center;
+}
+.repos a {
+  height: 30px;
+  width: 50%;
+  border-radius: 5px;
+  border-style: none;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(50, 50, 50, 1);
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+  transition: all ease-in 0.4s;
+  text-align: center;
+  align-self: center;
+  align-content: center;
+}
+
+.repos a:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.7);
+}
+
+@media (min-width: 300px) and (max-width: 1024px) {
+  .searchWrapper {
+    width: 96%;
+    align-items: center;
+    padding: 30px;
+    height: 100%;
+    margin-top: 30px;
+    padding: 10px;
+  }
+
+  .input{
+    width: 100%;
+  }
+
+  .btnSearch{
+    width: 50%;
+  }
+  .repos{
+    width: 100%;
+    justify-content: center;
+  }
+}

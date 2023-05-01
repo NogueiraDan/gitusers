@@ -1,0 +1,54 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 50px;
+  color: whitesmoke;
+}
+
+.repoWrapper {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  padding: 40px 10px;
+  border-radius: 20px;
+  background-color: rgba(60, 60, 60, 0.9);
+  box-shadow: -6px 6px 8px rgba(0, 0, 0, 0.5);
+}
+
+.btnBack {
+  height: 35px;
+  width: 15%;
+  border-radius: 5px;
+  border-style: none;
+  margin-top: 5px;
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid rgba(80, 80, 80, 1);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+  transition: all ease-in 0.4s;
+}
+
+.btnBack:hover {
+  transform: scale(1.1);
+}
+
+@media (min-width: 300px) and (max-width: 1024px) {
+  .repoWrapper {
+    width: 96%;
+    align-items: center;
+    height: 100%;
+    margin-top: 30px;
+    padding: 20px 10px;
+  }
+
+  .btnBack {
+    width: 50%;
+    margin-top: 50px;
+  }
+}
