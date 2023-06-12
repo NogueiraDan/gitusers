@@ -1,1 +1,2621 @@
-self.__RSC_MANIFEST={"ssrModuleMapping":{"99":{"*":{"id":"3751","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"3751","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"3751","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"406":{"*":{"id":"4599","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"4599","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"4599","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"414":{"*":{"id":"53","name":"*","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"":{"id":"53","name":"","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"default":{"id":"53","name":"default","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false}},"2348":{"*":{"id":"3167","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"3167","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"3167","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"RedirectErrorBoundary":{"id":"3167","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"RedirectBoundary":{"id":"3167","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"redirect":{"id":"3167","name":"redirect","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"reset":{"id":"3167","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"router":{"id":"3167","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"value":{"id":"3167","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"2683":{"*":{"id":"9969","name":"*","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false},"":{"id":"9969","name":"","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false},"default":{"id":"9969","name":"default","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false}},"3055":{"*":{"id":"4765","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"4765","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"4765","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"ErrorBoundaryHandler":{"id":"4765","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"ErrorBoundary":{"id":"4765","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"error":{"id":"4765","name":"error","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"https":{"id":"4765","name":"https","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"fontFamily":{"id":"4765","name":"fontFamily","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"height":{"id":"4765","name":"height","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"textAlign":{"id":"4765","name":"textAlign","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"display":{"id":"4765","name":"display","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"flexDirection":{"id":"4765","name":"flexDirection","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"alignItems":{"id":"4765","name":"alignItems","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"justifyContent":{"id":"4765","name":"justifyContent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"desc":{"id":"4765","name":"desc","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"text":{"id":"4765","name":"text","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"fontSize":{"id":"4765","name":"fontSize","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"fontWeight":{"id":"4765","name":"fontWeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"lineHeight":{"id":"4765","name":"lineHeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"margin":{"id":"4765","name":"margin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"reset":{"id":"4765","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"style":{"id":"4765","name":"style","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"\"Digest":{"id":"4765","name":"\"Digest","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"errorComponent":{"id":"4765","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"errorStyles":{"id":"4765","name":"errorStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"value":{"id":"4765","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"7858":{"*":{"id":"9222","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"9222","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"9222","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"urlToUrlWithoutFlightMarker":{"id":"9222","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"TODO-APP":{"id":"9222","name":"TODO-APP","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"__NA":{"id":"9222","name":"__NA","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"location":{"id":"9222","name":"location","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"\"http":{"id":"9222","name":"\"http","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"searchParams":{"id":"9222","name":"searchParams","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"pathname":{"id":"9222","name":"pathname","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"type":{"id":"9222","name":"type","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"cache":{"id":"9222","name":"cache","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"status":{"id":"9222","name":"status","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"data":{"id":"9222","name":"data","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"subTreeData":{"id":"9222","name":"subTreeData","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"parallelRoutes":{"id":"9222","name":"parallelRoutes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"mutable":{"id":"9222","name":"mutable","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"isExternalUrl":{"id":"9222","name":"isExternalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"locationSearch":{"id":"9222","name":"locationSearch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"back":{"id":"9222","name":"back","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"forward":{"id":"9222","name":"forward","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"prefetch":{"id":"9222","name":"prefetch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"kind":{"id":"9222","name":"kind","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"replace":{"id":"9222","name":"replace","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"push":{"id":"9222","name":"push","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"refresh":{"id":"9222","name":"refresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"origin":{"id":"9222","name":"origin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"fastRefresh":{"id":"9222","name":"fastRefresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"router":{"id":"9222","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"url":{"id":"9222","name":"url","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"tree":{"id":"9222","name":"tree","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"notFound":{"id":"9222","name":"notFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"notFoundStyles":{"id":"9222","name":"notFoundStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"asNotFound":{"id":"9222","name":"asNotFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"pushRef":{"id":"9222","name":"pushRef","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"canonicalUrl":{"id":"9222","name":"canonicalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"sync":{"id":"9222","name":"sync","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"value":{"id":"9222","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"childNodes":{"id":"9222","name":"childNodes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"assetPrefix":{"id":"9222","name":"assetPrefix","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"errorComponent":{"id":"9222","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"9457":{"*":{"id":"5192","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"5192","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"5192","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"9544":{"*":{"id":"8301","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"":{"id":"8301","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"default":{"id":"8301","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false}},"9898":{"*":{"id":"5480","name":"*","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"":{"id":"5480","name":"","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"default":{"id":"5480","name":"default","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false}}},"edgeSSRModuleMapping":{},"cssFiles":{"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page":["static/css/90c1b09cdd1b3184.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\layout":["static/css/f8770ba38b78fdc8.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page":["static/css/44e4268dc2ba22d8.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page":["static/css/a056b576620ea5df.css"]},"clientModules":{"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js":{"id":"7858","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js":{"id":"7858","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#":{"id":"7858","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#":{"id":"7858","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#default":{"id":"7858","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default":{"id":"7858","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker":{"id":"7858","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker":{"id":"7858","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP":{"id":"7858","name":"TODO-APP","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP":{"id":"7858","name":"TODO-APP","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA":{"id":"7858","name":"__NA","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA":{"id":"7858","name":"__NA","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#location":{"id":"7858","name":"location","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location":{"id":"7858","name":"location","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http":{"id":"7858","name":"\"http","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http":{"id":"7858","name":"\"http","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams":{"id":"7858","name":"searchParams","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams":{"id":"7858","name":"searchParams","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname":{"id":"7858","name":"pathname","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname":{"id":"7858","name":"pathname","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#type":{"id":"7858","name":"type","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type":{"id":"7858","name":"type","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#cache":{"id":"7858","name":"cache","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache":{"id":"7858","name":"cache","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#status":{"id":"7858","name":"status","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status":{"id":"7858","name":"status","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#data":{"id":"7858","name":"data","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data":{"id":"7858","name":"data","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData":{"id":"7858","name":"subTreeData","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData":{"id":"7858","name":"subTreeData","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes":{"id":"7858","name":"parallelRoutes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes":{"id":"7858","name":"parallelRoutes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable":{"id":"7858","name":"mutable","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable":{"id":"7858","name":"mutable","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl":{"id":"7858","name":"isExternalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl":{"id":"7858","name":"isExternalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch":{"id":"7858","name":"locationSearch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch":{"id":"7858","name":"locationSearch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#back":{"id":"7858","name":"back","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back":{"id":"7858","name":"back","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#forward":{"id":"7858","name":"forward","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward":{"id":"7858","name":"forward","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch":{"id":"7858","name":"prefetch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch":{"id":"7858","name":"prefetch","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#kind":{"id":"7858","name":"kind","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind":{"id":"7858","name":"kind","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#replace":{"id":"7858","name":"replace","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace":{"id":"7858","name":"replace","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#push":{"id":"7858","name":"push","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push":{"id":"7858","name":"push","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh":{"id":"7858","name":"refresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh":{"id":"7858","name":"refresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#origin":{"id":"7858","name":"origin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin":{"id":"7858","name":"origin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh":{"id":"7858","name":"fastRefresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh":{"id":"7858","name":"fastRefresh","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#router":{"id":"7858","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router":{"id":"7858","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#url":{"id":"7858","name":"url","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url":{"id":"7858","name":"url","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#tree":{"id":"7858","name":"tree","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree":{"id":"7858","name":"tree","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound":{"id":"7858","name":"notFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound":{"id":"7858","name":"notFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles":{"id":"7858","name":"notFoundStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles":{"id":"7858","name":"notFoundStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound":{"id":"7858","name":"asNotFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound":{"id":"7858","name":"asNotFound","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef":{"id":"7858","name":"pushRef","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef":{"id":"7858","name":"pushRef","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl":{"id":"7858","name":"canonicalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl":{"id":"7858","name":"canonicalUrl","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#sync":{"id":"7858","name":"sync","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync":{"id":"7858","name":"sync","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#value":{"id":"7858","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value":{"id":"7858","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes":{"id":"7858","name":"childNodes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes":{"id":"7858","name":"childNodes","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix":{"id":"7858","name":"assetPrefix","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix":{"id":"7858","name":"assetPrefix","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent":{"id":"7858","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent":{"id":"7858","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js":{"id":"3055","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js":{"id":"3055","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#":{"id":"3055","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#":{"id":"3055","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default":{"id":"3055","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default":{"id":"3055","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler":{"id":"3055","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler":{"id":"3055","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary":{"id":"3055","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary":{"id":"3055","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error":{"id":"3055","name":"error","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error":{"id":"3055","name":"error","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https":{"id":"3055","name":"https","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https":{"id":"3055","name":"https","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily":{"id":"3055","name":"fontFamily","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily":{"id":"3055","name":"fontFamily","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height":{"id":"3055","name":"height","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height":{"id":"3055","name":"height","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign":{"id":"3055","name":"textAlign","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign":{"id":"3055","name":"textAlign","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display":{"id":"3055","name":"display","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display":{"id":"3055","name":"display","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection":{"id":"3055","name":"flexDirection","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection":{"id":"3055","name":"flexDirection","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems":{"id":"3055","name":"alignItems","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems":{"id":"3055","name":"alignItems","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent":{"id":"3055","name":"justifyContent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent":{"id":"3055","name":"justifyContent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc":{"id":"3055","name":"desc","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc":{"id":"3055","name":"desc","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text":{"id":"3055","name":"text","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text":{"id":"3055","name":"text","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize":{"id":"3055","name":"fontSize","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize":{"id":"3055","name":"fontSize","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight":{"id":"3055","name":"fontWeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight":{"id":"3055","name":"fontWeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight":{"id":"3055","name":"lineHeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight":{"id":"3055","name":"lineHeight","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin":{"id":"3055","name":"margin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin":{"id":"3055","name":"margin","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset":{"id":"3055","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset":{"id":"3055","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style":{"id":"3055","name":"style","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style":{"id":"3055","name":"style","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest":{"id":"3055","name":"\"Digest","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest":{"id":"3055","name":"\"Digest","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent":{"id":"3055","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent":{"id":"3055","name":"errorComponent","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles":{"id":"3055","name":"errorStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles":{"id":"3055","name":"errorStyles","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value":{"id":"3055","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value":{"id":"3055","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js":{"id":"9544","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js":{"id":"9544","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js#":{"id":"9544","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#":{"id":"9544","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js#default":{"id":"9544","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default":{"id":"9544","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js":{"id":"2348","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js":{"id":"2348","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#":{"id":"2348","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#":{"id":"2348","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default":{"id":"2348","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default":{"id":"2348","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary":{"id":"2348","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary":{"id":"2348","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary":{"id":"2348","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary":{"id":"2348","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect":{"id":"2348","name":"redirect","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect":{"id":"2348","name":"redirect","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset":{"id":"2348","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset":{"id":"2348","name":"reset","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router":{"id":"2348","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router":{"id":"2348","name":"router","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value":{"id":"2348","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value":{"id":"2348","name":"value","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js":{"id":"99","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js":{"id":"99","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#":{"id":"99","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#":{"id":"99","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default":{"id":"99","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default":{"id":"99","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js":{"id":"406","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js":{"id":"406","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#":{"id":"406","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#":{"id":"406","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default":{"id":"406","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default":{"id":"406","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":"9457","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js":{"id":"9457","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#":{"id":"9457","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#":{"id":"9457","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default":{"id":"9457","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default":{"id":"9457","name":"default","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js":{"id":"6996","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js":{"id":"6996","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#":{"id":"6996","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#":{"id":"6996","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates":{"id":"6996","name":"CacheStates","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates":{"id":"6996","name":"CacheStates","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext":{"id":"6996","name":"AppRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext":{"id":"6996","name":"AppRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext":{"id":"6996","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext":{"id":"6996","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext":{"id":"6996","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext":{"id":"6996","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext":{"id":"6996","name":"TemplateContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext":{"id":"6996","name":"TemplateContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js":{"id":"9297","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js":{"id":"9297","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#":{"id":"9297","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#":{"id":"9297","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext":{"id":"9297","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext":{"id":"9297","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext":{"id":"9297","name":"PathnameContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext":{"id":"9297","name":"PathnameContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#ParamsContext":{"id":"9297","name":"ParamsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#ParamsContext":{"id":"9297","name":"ParamsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext":{"id":"9297","name":"LayoutSegmentsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext":{"id":"9297","name":"LayoutSegmentsContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js":{"id":"190","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js":{"id":"190","name":"*","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#":{"id":"190","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#":{"id":"190","name":"","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext":{"id":"190","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext":{"id":"190","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML":{"id":"190","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML":{"id":"190","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-b0d5f7a8eb89ba37.js","667:static/chunks/2443530c-4218d3c23870e38f.js","139:static/chunks/139-c6b048cdbb304933.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js":{"id":"414","name":"*","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js":{"id":"414","name":"*","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js#":{"id":"414","name":"","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js#":{"id":"414","name":"","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js#default":{"id":"414","name":"default","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js#default":{"id":"414","name":"default","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css#":{"id":"null","name":"default","chunks":["static/css/90c1b09cdd1b3184.css"]},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css#":{"id":"null","name":"default","chunks":["static/css/f8770ba38b78fdc8.css"]},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css#":{"id":"null","name":"default","chunks":["static/css/44e4268dc2ba22d8.css"]},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx":{"id":"2683","name":"*","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx#":{"id":"2683","name":"","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx#default":{"id":"2683","name":"default","chunks":["549:static/chunks/app/details/page-fbbb4c9c4872e4f6.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css#":{"id":"null","name":"default","chunks":["static/css/a056b576620ea5df.css"]},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx":{"id":"9898","name":"*","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx#":{"id":"9898","name":"","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false},"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx#default":{"id":"9898","name":"default","chunks":["414:static/chunks/414-105daebd43b7d994.js","797:static/chunks/app/search/page-d76e9085b2ab098f.js"],"async":false}}}
+self.__RSC_MANIFEST={
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "TODO-APP": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "TODO-APP",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "__NA": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "__NA",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "location": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "location",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "\"http": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "\"http",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "searchParams": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "searchParams",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "pathname": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pathname",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "type": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "type",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "cache": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "cache",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "status": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "status",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "data": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "data",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "subTreeData": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "subTreeData",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "parallelRoutes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "parallelRoutes",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "mutable": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "mutable",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "isExternalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "isExternalUrl",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "locationSearch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "locationSearch",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "back": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "back",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "forward": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "forward",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "prefetch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "prefetch",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "kind": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "kind",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "replace": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "replace",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "push": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "push",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "refresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "refresh",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "origin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "origin",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "fastRefresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "fastRefresh",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "router",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "url": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "url",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "tree": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "tree",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "notFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFound",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "notFoundStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFoundStyles",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "asNotFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "asNotFound",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "pushRef": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pushRef",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "canonicalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "canonicalUrl",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "sync": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "sync",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "childNodes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "childNodes",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "assetPrefix": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "assetPrefix",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "errorComponent",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "error": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "error",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "https",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "fontFamily": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontFamily",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "height": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "height",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "textAlign": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "textAlign",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "display": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "display",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "flexDirection": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "flexDirection",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "alignItems": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "alignItems",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "justifyContent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "justifyContent",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "desc": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "desc",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "text": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "text",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "fontSize": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontSize",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "fontWeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontWeight",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "lineHeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "lineHeight",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "margin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "margin",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "style": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "style",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "\"Digest": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "\"Digest",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorComponent",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "errorStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorStyles",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "redirect": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "redirect",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "router",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/search/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/search/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/search/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/search/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/search/page:static/chunks/app/search/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/details/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/details/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/details/page:static/chunks/app/details/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/details/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/details/page:static/chunks/app/details/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/details/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/details/page:static/chunks/app/details/page.js"
+        ],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "cssFiles": {
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page": [
+      "static/css/app/page.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\layout": [
+      "static/css/app/layout.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page": [
+      "static/css/app/search/page.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page": [
+      "static/css/app/details/page.css"
+    ]
+  },
+  "clientModules": {
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#ParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "ParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#ParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "ParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "LayoutSegmentsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "LayoutSegmentsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "kind",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "kind",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/search/page.css"
+      ]
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx": {
+      "id": "(app-client)/./src/app/search/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx#": {
+      "id": "(app-client)/./src/app/search/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx#default": {
+      "id": "(app-client)/./src/app/search/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/search/page:static/chunks/app/search/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/details/page.css"
+      ]
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx": {
+      "id": "(app-client)/./src/app/details/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/details/page:static/chunks/app/details/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx#": {
+      "id": "(app-client)/./src/app/details/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/details/page:static/chunks/app/details/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx#default": {
+      "id": "(app-client)/./src/app/details/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/details/page:static/chunks/app/details/page.js"
+      ],
+      "async": false
+    }
+  }
+}

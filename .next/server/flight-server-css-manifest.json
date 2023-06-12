@@ -1,1 +1,30 @@
-{"cssImports":{"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.tsx":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\layout.tsx":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css"]},"cssModules":{"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css","E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css","E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css"],"E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page":["E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css","E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css"]}}
+{
+  "cssImports": {
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.tsx": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\layout.tsx": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page.tsx": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page.tsx": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css"
+    ]
+  },
+  "cssModules": {
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\page.module.css",
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\page": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css",
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\search\\search.module.css"
+    ],
+    "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\page": [
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\globals.css",
+      "E:\\Daniel Nogueira\\Documents\\Programação\\Práticas\\NextJS\\usersgit\\src\\app\\details\\details.module.css"
+    ]
+  }
+}

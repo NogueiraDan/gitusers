@@ -3,8 +3,6 @@ import React, { useState } from "react";
 import styles from "./search.module.css";
 import Link from "next/link";
 
-
-
 type Repository = {
   id: number;
   name: string;
